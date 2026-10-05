@@ -2,12 +2,7 @@
 
 أداة بحث عميق متعددة الخطوات مستوحاة من Gemini Deep Research.
 
-## Features
-- Multi-step research planning (query expansion)
-- Parallel search across Google News RSS + BBC + The Guardian
-- Structured report with executive summary + cited sources
-- Arabic & English support
-- Modern dark UI
-
-## Deploy
-Vercel-ready Next.js 14 app.
+- تخطيط تلقائي (تقسيم الموضوع إلى محاور)
+- بحث في مصادر حقيقية (Google News, BBC, The Guardian)
+- تجميع + تقرير منظم مع روابط
+- دعم العربية والإنجليزية

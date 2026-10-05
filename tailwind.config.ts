@@ -8,15 +8,7 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors: {
-        gemini: {
-          blue: "#4285F4",
-          purple: "#9B72CB",
-          pink: "#D96570",
-        },
-      },
       animation: {
-        "pulse-slow": "pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite",
         "fade-in": "fadeIn 0.5s ease-out",
       },
       keyframes: {
